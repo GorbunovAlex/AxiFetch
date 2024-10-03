@@ -1,0 +1,27 @@
+{
+  "name": "axifetch",
+  "version": "1.0.0",
+  "description": "A small axios based class for requests",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "axios": "^1.7.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GorbunovAlex/AxiFetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "axios",
+    "typescript"
+  ],
+  "author": "Aleksandr Gorbunov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GorbunovAlex/AxiFetch/issues"
+  },
+  "homepage": "https://github.com/GorbunovAlex/AxiFetch#readme"
+}
