@@ -1,6 +1,6 @@
 {
   "name": "axifetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small axios based class for requests",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/GorbunovAlex/AxiFetch/issues"
   },
-  "homepage": "https://github.com/GorbunovAlex/AxiFetch#readme"
+  "homepage": "https://github.com/GorbunovAlex/AxiFetch#readme",
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/axifetch"
+  }
 }
